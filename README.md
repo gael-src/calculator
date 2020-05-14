@@ -1,4 +1,4 @@
-# calculator
+# Node Calculator
 
 
 Using node process.openStdin()
